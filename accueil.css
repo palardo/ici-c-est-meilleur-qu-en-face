@@ -21,6 +21,7 @@ nav li{
     float: left;
     width: 25%;/*100% divisé par le nombre d'éléments de menu*/
     text-align: center;/*Centre le texte dans les éléments de menu*/
+    margin-left: 20%
 }
 
 /*Evite que le menu n'ait une hauteur nulle*/
@@ -46,4 +47,10 @@ nav a:hover{
 .conteneur{
   margin: 0px 20px;
   height: 1500px;
+}
+body{
+    background-color: #bd9b6b;
+}
+.p1{
+    color: white;
 }
