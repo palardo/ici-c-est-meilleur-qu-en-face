@@ -62,5 +62,22 @@ h2{
 }
 .droite{
     margin-left: 30%;
-   
+   margin-top: -5%;
+   color: white;
+}
+.blanc{
+    color: white;
+}
+.image{
+    width: 800px;
+    height: 490px;
+    margin-top: 3%;
+}
+.rouge{
+    color: red;
+}
+.droitee{
+    margin-left: 30%;
+    margin-top: -3%;
+    color: white;
 }
